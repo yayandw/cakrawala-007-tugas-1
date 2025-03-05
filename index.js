@@ -60,6 +60,7 @@ console.log("## Write a code to print your name initial in uppercase");
 function getInitials(name) {
     return name.split(' ').map(word => word[0].toUpperCase()).join('');
 }
+
 let fullName = "Yayan D Wicaksono";
 console.log(getInitials(fullName));
 console.log("\n##\n\n");
