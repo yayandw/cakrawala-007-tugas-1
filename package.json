@@ -1,0 +1,19 @@
+{
+  "name": "cakrawala-007-tugas-1",
+  "version": "1.0.0",
+  "description": "tugas 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayandw/cakrawala-007-tugas-1.git"
+  },
+  "author": "yayandw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yayandw/cakrawala-007-tugas-1/issues"
+  },
+  "homepage": "https://github.com/yayandw/cakrawala-007-tugas-1#readme"
+}
